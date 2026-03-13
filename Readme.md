@@ -14,8 +14,7 @@
 ## 🎯 ¿Qué es esto?
 
 Un modelo probabilístico que simula **10,000 torneos completos** de Champions League para calcular qué equipo tiene más chances de ser campeón.
-
-**No es una bola de cristal.** Es una aproximación basada en datos reales de la temporada 2025-26.
+ Es una aproximación basada en datos reales de la temporada 2025-26.
 
 ---
 
@@ -105,7 +104,7 @@ P(A gana) = 1 / (1 + 10^((Rating_B - Rating_A) / 400))
 
 **Para cada una de las 10,000 simulaciones:**
 
-1. **Octavos de final** - Ida y vuelta con regla de gol visitante
+1. **Octavos de final** - Ida y vuelta 
 2. **Cuartos de final** - Respetando bracket fijo de la UEFA
 3. **Semifinales** - Dos eliminatorias
 4. **Final** - Partido único
@@ -295,9 +294,9 @@ Una vez finalicen los octavos de final (18-19 marzo), actualizaré esta sección
 **Javier Guerra**
 
 - 🐙 GitHub: [@JavierGuerra13](https://github.com/JavierGuerra13)
-- 🐦 X (Twitter): [@JavierAnaliza](https://twitter.com/JavierAnaliza)
+- 🐦 X (Twitter): [@JavierAnaliza_](https://twitter.com/JavierAnaliza)
 - 💼 LinkedIn: [Javier Guerra](https://linkedin.com/in/javier-guerra)
-- 📧 Email: [tu-email@ejemplo.com]
+- 📧 Email: [guerranew@gmail.com]
 
 ---
 
@@ -313,7 +312,6 @@ Eres libre de usar, modificar y distribuir este código con los créditos apropi
 
 - **FBref** por proporcionar estadísticas detalladas y públicas
 - **Comunidad de Python** por las increíbles librerías open-source
-- **ChatGPT y Claude AI** por el apoyo en desarrollo y debugging
 - **Comunidad de r/datascience** por inspiración y feedback
 
 ---
@@ -352,10 +350,4 @@ El fútbol es inherentemente impredecible. Los mejores equipos pueden perder, lo
 
 ---
 
-<p align="center">
-  <i>Hecho con ❤️, ☕ y Python</i>
-</p>
 
-<p align="center">
-  <i>"El fútbol es impredecible. Por eso lo amamos."</i>
-</p>
